@@ -1,1 +1,5 @@
-# This File is For GCP Sprint Task
+# CGP_Sprint 01
+# Docker Flask Application
+- Written in Python
+- Will deploy on GCP 
+
